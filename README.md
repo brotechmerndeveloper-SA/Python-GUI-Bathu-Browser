@@ -1,6 +1,9 @@
 # Python-GUI-Bathu-Browser
 A modern, feature-rich web browser built with Python and PyQt5, featuring a stunning Netflix-inspired dark theme and privacy-focused Brave Search integration.
 
+<img width="1304" height="723" alt="preview" src="https://github.com/user-attachments/assets/215ecab3-8e48-47af-8bff-809324b09ef0" />
+
+
 ## ✨ Features
 
 - 🎬 **Netflix-Style UI** - Beautiful black and red theme inspired by Netflix
